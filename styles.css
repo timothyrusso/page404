@@ -4,7 +4,7 @@ body {
 }
 
 .content {
-  margin-top: 110px;
+  margin-top: 80px;
 }
 .empty-boxes-wrapper {
   max-width: 520px;
@@ -29,6 +29,11 @@ body {
   font-weight: 400;
   margin: 0;
 }
+
+.text-subtitle {
+  margin: 0;
+}
+
 .text-info {
   background-color: white;
   position: relative;
